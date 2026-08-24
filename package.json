@@ -1,8 +1,15 @@
 {
   "name": "cookie-banner-kit",
   "version": "1.0.0",
-  "private": true,
   "description": "Eigenes DSGVO-Cookie-Banner (React + Tailwind). Basis aus dem Orbance-Projekt, ohne Shop- und App-Spezifika.",
+  "license": "MIT",
+  "author": "Wiedenroth Technologies GmbH <hello@wiedenroth.tech>",
+  "homepage": "https://wiedenroth.tech",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wiedenrothtech/cookie-banner-kit"
+  },
+  "keywords": ["cookie-consent", "gdpr", "dsgvo", "react", "nextjs", "tailwindcss"],
   "peerDependencies": {
     "react": ">=18",
     "react-dom": ">=18"

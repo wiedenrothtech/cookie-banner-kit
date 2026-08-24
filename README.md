@@ -1,5 +1,7 @@
 # Cookie-Banner-Kit
 
+Von [Wiedenroth Technologies](https://wiedenroth.tech) – eigenentwickelt für [Orbance](https://orbance.com), hier als eigenständiger Baustein bereitgestellt.
+
 Eigenes DSGVO-Cookie-Banner (kein Cookiebot / OneTrust / Usercentrics).
 Abgeleitet aus dem Orbance-Stack, bereinigt für ein anderes Next.js- oder React-Projekt.
 
@@ -85,3 +87,7 @@ Unbekannte Cookies gelten bewusst als `necessary` (konservativ). Eigene Tracker-
 ## Hinweis
 
 Das ist eine technische Basis, keine Rechtsberatung. Texte, Kategorien und eingesetzte Dienste an euer Projekt und eure Datenschutzerklärung anpassen.
+
+## Support
+
+Dieses Kit wird bereitgestellt, wie es ist – es gibt keine aktive Support-Garantie. Issues und PRs sind willkommen, werden aber unregelmäßig geprüft. Für individuelle Umsetzung: [wiedenroth.tech](https://wiedenroth.tech).
