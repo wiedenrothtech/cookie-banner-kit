@@ -1,0 +1,20 @@
+{
+  "name": "cookie-banner-kit",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Eigenes DSGVO-Cookie-Banner (React + Tailwind). Basis aus dem Orbance-Projekt, ohne Shop- und App-Spezifika.",
+  "peerDependencies": {
+    "react": ">=18",
+    "react-dom": ">=18"
+  },
+  "dependencies": {
+    "@radix-ui/react-collapsible": "^1.1.0",
+    "@radix-ui/react-label": "^2.1.0",
+    "@radix-ui/react-slot": "^1.1.0",
+    "@radix-ui/react-switch": "^1.1.0",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.0",
+    "lucide-react": "^0.460.0",
+    "tailwind-merge": "^2.5.0"
+  }
+}
